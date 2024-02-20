@@ -50,11 +50,11 @@ body {
   }
   
   .spin {
-    animation: spin 2s linear;
+    animation: spin 2s infinite;
     transform-origin: left;
   }
   .roll {
-    animation: roll 5s linear;
+    animation: roll 5s infinite;
     transform-origin: left;
   }
 
